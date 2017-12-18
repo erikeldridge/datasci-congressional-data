@@ -38,7 +38,7 @@ The Challenge framing is actually quite broad: the goal is to Create an applicat
 1. How many bills affect SF and/or MB?
 2. Voting patterns - How has your Congressional representative voted over time? Do any factors correlate with a yes vote? Can we predict how she’ll vote on the next bill? How confident are we in the prediction? Can we establish a voting preference profile, eg trained on voter recommendations, and generate an alert when a prediction conflicts with our preference?
 3. Visualizing Gerrymandering - (i.e. can we show evidence of racial gerrymandering, or other illegal/unethical gerrymandering by socio-demographic splits)
-4. Campaign finance - visualizations of sources of funds over time. Is there a correlation between sources of funds and voting behavior?
+4. Campaign finance - visualizations of sources of funds over time. Is there a correlation between sources of funds and voting behavior? Can we independently verify claims such as [40% funds came from 0.01% of the population](https://www.nytimes.com/2017/12/16/opinion/sunday/tax-bill-inequality-created.html)?
 
 As we get more specific on which problem we are tackling we will also be able to get more specific about the data sources, questions, and hypotheses we are exploring. In addition, we will specify the output that we expect along with blockers and challenges we face.
 
